@@ -32,3 +32,7 @@ print(MYSQL.PORT)
 # COMMAND ----------
 
 # MAGIC %sh ls /Workspace/Repos/pavan.kumarchalamcharla@databricks.com
+
+# COMMAND ----------
+
+dbutils.widgets.help()
